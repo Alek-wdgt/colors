@@ -1,0 +1,12 @@
+.transition-div {
+    display: none;
+
+
+
+    background-color: #f0f0f0; /* Your background color */
+    transition: top 0.5s ease-in-out; /* Smoother transition */
+}
+
+.transition-div.active {
+    display: grid; /* Bring the div onto the screen */
+}
