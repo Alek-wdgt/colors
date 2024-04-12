@@ -7,12 +7,12 @@
 ``` bash
 git clone https://github.com/Alek-wdgt/colors.git
 ```
-- install composer
+- Navigate to your api/ folder and install composer
 ```bash
 composer install
 ```
 - Create your database schema that will be connected for Laravel.
-- Update env.example with you username, password and database name and save it as .env and edit => username, password and database
+- Update env.example with you username, password and database name and save it as .env => username, password and database
 
 ## Laravel API
 - Navigate to api folder
