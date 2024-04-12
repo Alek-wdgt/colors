@@ -5,7 +5,7 @@
 
 - git clone project
 ``` bash
-git clone https://github.com/Alek-wdgt/unicolors.git
+git clone https://github.com/Alek-wdgt/colors.git
 ```
 - install composer
 ```bash
